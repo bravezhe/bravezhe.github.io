@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://bravezhe.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 挨踢生涯 | My Octopress Blog]]></title>
+  <link href="http://bravezhe.github.io/blog/categories/ai-ti-sheng-ya/atom.xml" rel="self"/>
   <link href="http://bravezhe.github.io/"/>
   <updated>2014-01-29T11:45:52+08:00</updated>
   <id>http://bravezhe.github.io/</id>
